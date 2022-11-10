@@ -104,7 +104,8 @@ h1, h5 {
     /*
     rgb(31, 154, 226)
     */
-    background-color:greenyellow;
+    background-color:green;
+    color: white;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
 }
